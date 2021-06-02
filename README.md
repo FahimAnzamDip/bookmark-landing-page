@@ -27,12 +27,12 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](./screenshot.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [check now :globe_with_meridians:](https://www.frontendmentor.io/solutions/bookmark-landing-page-solved-with-tailwind-and-alpinejs-5Aku-nqFs)
+- Live Site URL: [check now :globe_with_meridians:](https://fahimanzamdip.github.io/bookmark-landing-page/)
 
 ## My process
 
